@@ -1,8 +1,8 @@
 import { BrowserRouter,Routes, Route } from "react-router-dom";
 import Home from '../Pages/Home/Home';
-import Atividades from '../Pages/Atividades';
-import Aulinhas from '../Pages/Aulinhas';
-import Contato from '../Pages/Contato';
+import Atividades from '../Pages/Atividades/Atividades'
+import Aulinhas from '../Pages/Aulinhas/Aulinhas';
+import Contato from '../Pages/Contato/Contato';
 import Header from '../Components/Header';
 
 export default function Rotas(){
