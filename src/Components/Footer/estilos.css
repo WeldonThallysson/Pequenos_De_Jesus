@@ -1,0 +1,27 @@
+.Conteiner__Rodape{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(56, 26, 1);
+    padding-bottom: 1em;
+}
+
+.Titulo__Rodape{
+    color: rgb(207, 185, 185);
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Botao{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+   
+}
+
+.Logo__Rodape{
+    width: 4%; 
+    
+}

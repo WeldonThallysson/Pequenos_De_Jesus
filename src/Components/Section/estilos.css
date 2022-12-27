@@ -1,0 +1,156 @@
+.Conteiner__Cards{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgb(238, 181, 23),#af7026);
+    margin-top: -0.2%;
+}
+.Lista{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2%;
+   
+   
+}
+
+.Itens__List{
+    width: 25%;
+    height: 60vh;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: rgb(242, 249, 255);
+}
+.Titulo__Card{
+    text-align: left;
+    font-size: 22px;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: #3a2112 solid 2px;
+    border-radius: 1px;
+    border-radius: 1px;
+    padding: 2px;
+    width: 80%;
+    color:#7B1E2C;
+    
+}
+.img__card{
+    display: flex;
+    width: 100%;
+    height: 25vh;
+    border-radius: 2px;
+   
+  
+        
+}
+.Conteiner__Descard{
+    width: 100%;
+    height: 12vh;
+}
+.Descricao_Card{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3d1e0a;
+    padding: 1px;
+    width: 100%;
+    height: 10vh;
+}
+.Conteiner__Botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    margin-top: 5%; 
+    width: 100%;
+    height: 6vh;
+    background: linear-gradient(rgb(235, 199, 0),orange);
+    border-radius: 6px;
+}
+
+.Conteiner__Botao:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+    transition: all 0.8s;
+  
+    border-radius: 6px;      
+    font-weight: bold; 
+    background: linear-gradient(rgb(240, 205, 7),rgb(223, 145, 2));  
+}
+
+
+
+.Botao__Card{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    font-family:cursive;
+    color:#3d1e0a;
+    text-decoration: none;
+}
+
+.Botao__Card:active{
+    color: rgb(248, 199, 39);
+    transition: all 0.8ms;
+}
+
+
+.Conteiner__Sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #af7026;
+    
+
+} 
+
+.Conteiner__geral{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 2em;
+    
+   
+}
+
+.Titulo__Sobre{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-shadow: #3d1e0a 1px 2px;
+
+}
+.Desc__Sobre{
+
+    width: 20%;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-shadow: #3d1e0a 1px 2px;
+  
+    
+   
+}
+
+.Img__Sobre{
+   
+    width: 20%;
+    height: 15%;
+    border-radius: 10px;
+    
+    
+    
+   
+
+}
+
+
