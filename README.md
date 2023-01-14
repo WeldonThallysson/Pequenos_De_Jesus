@@ -7,7 +7,7 @@
 ### Esse site foi construido com o objetivo de facilitar a busca de atividades das professoras para as  crianças que participam da famosa Salinha da igreja,grupinho ou sala de aula infantil !
 
 ## Importante Acesse Link do Site no Ar
-###  https://pequeninosdejesus.netlify.app/
+href="https://pequeninosdejesus.netlify.app
 
 <hr/>
 
